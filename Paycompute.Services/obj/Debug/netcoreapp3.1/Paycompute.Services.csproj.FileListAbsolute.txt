@@ -1,0 +1,13 @@
+D:\Csharp-projects\Paycompute.Services\bin\Debug\netcoreapp3.1\Paycompute.Services.deps.json
+D:\Csharp-projects\Paycompute.Services\bin\Debug\netcoreapp3.1\Paycompute.Services.dll
+D:\Csharp-projects\Paycompute.Services\bin\Debug\netcoreapp3.1\Paycompute.Services.pdb
+D:\Csharp-projects\Paycompute.Services\bin\Debug\netcoreapp3.1\Paycompute.Entity.dll
+D:\Csharp-projects\Paycompute.Services\bin\Debug\netcoreapp3.1\Paycompute.Persistence.dll
+D:\Csharp-projects\Paycompute.Services\bin\Debug\netcoreapp3.1\Paycompute.Entity.pdb
+D:\Csharp-projects\Paycompute.Services\bin\Debug\netcoreapp3.1\Paycompute.Persistence.pdb
+D:\Csharp-projects\Paycompute.Services\obj\Debug\netcoreapp3.1\Paycompute.Services.csprojAssemblyReference.cache
+D:\Csharp-projects\Paycompute.Services\obj\Debug\netcoreapp3.1\Paycompute.Services.AssemblyInfoInputs.cache
+D:\Csharp-projects\Paycompute.Services\obj\Debug\netcoreapp3.1\Paycompute.Services.AssemblyInfo.cs
+D:\Csharp-projects\Paycompute.Services\obj\Debug\netcoreapp3.1\Paycompute.Services.csproj.CopyComplete
+D:\Csharp-projects\Paycompute.Services\obj\Debug\netcoreapp3.1\Paycompute.Services.dll
+D:\Csharp-projects\Paycompute.Services\obj\Debug\netcoreapp3.1\Paycompute.Services.pdb
