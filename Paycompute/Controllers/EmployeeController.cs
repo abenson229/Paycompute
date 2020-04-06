@@ -32,5 +32,10 @@ namespace Paycompute.Controllers
 
             return View(employees);
         }
+
+        public IActionResult Create()
+        {
+            return View();
+        }
     }
 }
