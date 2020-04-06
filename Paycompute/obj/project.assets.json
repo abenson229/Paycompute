@@ -6084,11 +6084,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Csharp-projects\\Paycompute\\Paycompute.csproj",
+      "projectUniqueName": "D:\\Csharp-projects\\PayComputeApp\\Paycompute\\Paycompute.csproj",
       "projectName": "Paycompute",
-      "projectPath": "D:\\Csharp-projects\\Paycompute\\Paycompute.csproj",
+      "projectPath": "D:\\Csharp-projects\\PayComputeApp\\Paycompute\\Paycompute.csproj",
       "packagesPath": "C:\\Users\\abens\\.nuget\\packages\\",
-      "outputPath": "D:\\Csharp-projects\\Paycompute\\obj\\",
+      "outputPath": "D:\\Csharp-projects\\PayComputeApp\\Paycompute\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -6108,11 +6108,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Csharp-projects\\Paycompute.Entity\\Paycompute.Entity.csproj": {
-              "projectPath": "D:\\Csharp-projects\\Paycompute.Entity\\Paycompute.Entity.csproj"
+            "D:\\Csharp-projects\\PayComputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj": {
+              "projectPath": "D:\\Csharp-projects\\PayComputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj"
             },
-            "D:\\Csharp-projects\\Paycompute.Services\\Paycompute.Services.csproj": {
-              "projectPath": "D:\\Csharp-projects\\Paycompute.Services\\Paycompute.Services.csproj"
+            "D:\\Csharp-projects\\PayComputeApp\\Paycompute.Services\\Paycompute.Services.csproj": {
+              "projectPath": "D:\\Csharp-projects\\PayComputeApp\\Paycompute.Services\\Paycompute.Services.csproj"
             }
           }
         }

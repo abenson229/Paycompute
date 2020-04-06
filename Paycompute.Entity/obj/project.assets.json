@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Csharp-projects\\Paycompute.Entity\\Paycompute.Entity.csproj",
+      "projectUniqueName": "D:\\Csharp-projects\\PayComputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj",
       "projectName": "Paycompute.Entity",
-      "projectPath": "D:\\Csharp-projects\\Paycompute.Entity\\Paycompute.Entity.csproj",
+      "projectPath": "D:\\Csharp-projects\\PayComputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj",
       "packagesPath": "C:\\Users\\abens\\.nuget\\packages\\",
-      "outputPath": "D:\\Csharp-projects\\Paycompute.Entity\\obj\\",
+      "outputPath": "D:\\Csharp-projects\\PayComputeApp\\Paycompute.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

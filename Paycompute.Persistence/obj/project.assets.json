@@ -5789,11 +5789,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Csharp-projects\\Paycompute.Persistence\\Paycompute.Persistence.csproj",
+      "projectUniqueName": "D:\\Csharp-projects\\PayComputeApp\\Paycompute.Persistence\\Paycompute.Persistence.csproj",
       "projectName": "Paycompute.Persistence",
-      "projectPath": "D:\\Csharp-projects\\Paycompute.Persistence\\Paycompute.Persistence.csproj",
+      "projectPath": "D:\\Csharp-projects\\PayComputeApp\\Paycompute.Persistence\\Paycompute.Persistence.csproj",
       "packagesPath": "C:\\Users\\abens\\.nuget\\packages\\",
-      "outputPath": "D:\\Csharp-projects\\Paycompute.Persistence\\obj\\",
+      "outputPath": "D:\\Csharp-projects\\PayComputeApp\\Paycompute.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -5813,8 +5813,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Csharp-projects\\Paycompute.Entity\\Paycompute.Entity.csproj": {
-              "projectPath": "D:\\Csharp-projects\\Paycompute.Entity\\Paycompute.Entity.csproj"
+            "D:\\Csharp-projects\\PayComputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj": {
+              "projectPath": "D:\\Csharp-projects\\PayComputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj"
             }
           }
         }
