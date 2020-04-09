@@ -51,7 +51,7 @@ namespace Paycompute.Models
 
         [DataType(DataType.Date)]
         [Display(Name = "Date Joined")]
-        public DateTime DateJoined { get; set; }
+        public DateTime DateJoined { get; set; } = DateTime.UtcNow;
 
         [Required(ErrorMessage = "Job Role is required")]
         [StringLength(100)]
@@ -59,6 +59,7 @@ namespace Paycompute.Models
 
         [DataType(DataType.EmailAddress)]
         public string Email { get; set; }
+        public string Phone { get; set; }
 
         [Required(ErrorMessage = "National Insurance Number is required")]
         [StringLength(50)]
@@ -85,7 +86,6 @@ namespace Paycompute.Models
 
         [Required]
         [StringLength(50)]
-        [Display(Name = "Post Code")]
         public string PostCode { get; set; }
         public IEnumerable<PaymentRecord> PaymentRecords { get; set; }
     }

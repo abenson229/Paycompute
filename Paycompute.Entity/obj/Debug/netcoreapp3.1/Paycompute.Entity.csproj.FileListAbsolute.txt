@@ -6,3 +6,12 @@ D:\Csharp-projects\Paycompute.Entity\obj\Debug\netcoreapp3.1\Paycompute.Entity.A
 D:\Csharp-projects\Paycompute.Entity\obj\Debug\netcoreapp3.1\Paycompute.Entity.AssemblyInfo.cs
 D:\Csharp-projects\Paycompute.Entity\obj\Debug\netcoreapp3.1\Paycompute.Entity.dll
 D:\Csharp-projects\Paycompute.Entity\obj\Debug\netcoreapp3.1\Paycompute.Entity.pdb
+D:\Csharp-projects\PayComputeApp\Paycompute.Entity\bin\Debug\netcoreapp3.1\Paycompute.Entity.deps.json
+D:\Csharp-projects\PayComputeApp\Paycompute.Entity\bin\Debug\netcoreapp3.1\Paycompute.Entity.dll
+D:\Csharp-projects\PayComputeApp\Paycompute.Entity\bin\Debug\netcoreapp3.1\Paycompute.Entity.pdb
+D:\Csharp-projects\PayComputeApp\Paycompute.Entity\obj\Debug\netcoreapp3.1\Paycompute.Entity.csprojAssemblyReference.cache
+D:\Csharp-projects\PayComputeApp\Paycompute.Entity\obj\Debug\netcoreapp3.1\Paycompute.Entity.csproj.CoreCompileInputs.cache
+D:\Csharp-projects\PayComputeApp\Paycompute.Entity\obj\Debug\netcoreapp3.1\Paycompute.Entity.AssemblyInfoInputs.cache
+D:\Csharp-projects\PayComputeApp\Paycompute.Entity\obj\Debug\netcoreapp3.1\Paycompute.Entity.AssemblyInfo.cs
+D:\Csharp-projects\PayComputeApp\Paycompute.Entity\obj\Debug\netcoreapp3.1\Paycompute.Entity.dll
+D:\Csharp-projects\PayComputeApp\Paycompute.Entity\obj\Debug\netcoreapp3.1\Paycompute.Entity.pdb
